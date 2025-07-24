@@ -4,7 +4,7 @@ sifrovackyk
 3. binaris ABC
 4. morse ABC
 5. Vernam kodolas
-
+6. forditve beirva szavak
 
 elso csapat
 igaziak

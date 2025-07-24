@@ -1,6 +1,5 @@
-﻿using System;
+﻿using EncoderekATaborba.Dictionaries;
 using System.Text;
-using EncoderekATaborba.Dictionaries;
 
 namespace EncoderekATaborba
 {
